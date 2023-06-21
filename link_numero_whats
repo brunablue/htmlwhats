@@ -1,0 +1,14 @@
+Integração para ativação de botão Whatsapp:
+
+Alguns e-commerces necessitam aplicar um ícone de contato pelo whats, para esclarecer dúvidas gerais dos clientes.
+Por ser uma ferramenta prática e muito utilizada pelos usuários a sua interação se torna uma praticidade e até uma oportunidade de gerar upsell de vendas pelo atendimento pontual.
+
+
+//*Integração via Beon:
+Atualmente é possível aplicar pela API whats gratuitamente o ícone e o direcionamento a partir de um número para receber e transmitir as mensagens.Normalmente 
+a API gera um link que redireciona para conversas pelo Whats.*//
+
+<a href="https://api.whatsapp.com/send?phone=5548 991760547&amp;text=Olá,%20estou%20no%20site%20da%20blue%20e%20desejo%20mais%20informações.%20Consegue%20me%20ajudar?" target="_blank">
+<img src="https://images.tcdn.com.br/static_inst/integracao/imagens/whatsapp.png" style="height:55px; position:fixed; bottom: 80px; right: 25px; z-index:100;" data-selector="img">
+
+</a>
